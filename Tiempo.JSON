@@ -1,0 +1,46 @@
+{
+    "Tiempo_atmosferico": {
+        "Ciudad": "Badajoz",
+        "Fecha": [
+            {
+                "Dia": [
+                    {
+                        "Nombre": "Lunes",
+                        "Temperaruta": "16 ºC",
+                        "Viento": "11 km/h",
+                        "Estado": {
+                            "Nombre": "Mayormente nublado",
+                            "icono": "https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
+                        }
+
+                    }
+                ],
+
+                "Dia": [
+                    {
+                        "Nombre": "Martes",
+                        "Temperaruta": "24 ºC",
+                        "Viento": "8 km/h",
+                        "Estado": {
+                            "Nombre": "Chubascos Dispersos",
+                            "Icono": "https://ssl.gstatic.com/onebox/weather/64/rain_s _cloudy.png"
+                        }
+
+                        }
+                    ],
+
+                "Dia": [
+                    {
+                        "Nombre": "Miercoles",
+                        "Temperaruta": "23 ºC",
+                        "Viento": "13 km/h",
+                        "Estado": {
+                            "Nombre": "Chubascos dispersos",
+                            "icono": "https://ssl.gstatic.com/onebox/weather/64/rain_s_cloudy.png"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
