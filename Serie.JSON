@@ -1,0 +1,53 @@
+{
+    "Simpsions": [
+        {
+            "Nombre": "Marge Simpson",
+            "Edad": "34 años",
+            "Sexo": "Femenino",
+            "Serie": "Simpsons",
+            "Imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimpsons.fandom.com%2Fes%2Fwiki%2FMarge_Simpson&psig=AOvVaw0PZhLsazMmbGG37udYtSxM&ust=1618303937356000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPi7x5Gq-O8CFQAAAAAdAAAAABAD",
+            "Mejores_Capitulos": [
+                {
+                    "Id": 1,
+                    "Nombre": "Bart reprueba",
+                    "Temporada": 2,
+                    "Episodio": 1,
+                    "URL": "https://www.rollingstone.com.mx/wp-content/uploads/2019/12/Bart-gets-an-F-1-431x287.jpg"
+                }
+            ]
+        },
+
+        {
+            "Nmbre": "Homer Simpson",
+            "Edad": "36 años",
+            "Sexo": "Masculino",
+            "Serie": "Simpsons",
+            "Imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimpsons.fandom.com%2Fes%2Fwiki%2FHomer_Simpson&psig=AOvVaw0y0TIIW73aw3JeJjB88G8F&ust=1618303984878000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCM6qKq-O8CFQAAAAAdAAAAABAD",
+            "Mejores_Capitulos": [
+                {
+                    "Id": 2,
+                    "Nombre": "Simpson y Dalila",
+                    "Temporada": 2,
+                    "Episodio": 2,
+                    "URL": "https://www.rollingstone.com.mx/wp-content/uploads/2019/12/simpson-2x2-1-510x287.jpg"
+                    }
+                ]
+            },
+        {
+            "Nombre": "Bart Simpson",
+            "Edad": "10 años",
+            "Sexo": "Masculino",
+            "Serie": "Simpsons",
+            "Imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimpsons.fandom.com%2Fes%2Fwiki%2FBart_Simpson&psig=AOvVaw3pnAdYLJfLNuSJsoUux_S4&ust=1618304002317000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD5gauq-O8CFQAAAAAdAAAAABAD",
+            "Mejores_Capitulos": [
+                {
+                    "Id": 3,
+                    "Nombre": "Casita del horror",
+                    "Temporada": 2,
+                    "Episodio": 3,
+                    "URL": "https://www.rollingstone.com.mx/wp-content/uploads/2019/12/treehouse-1-615x461-1-383x287.jpg"
+                }
+            ]
+        }
+    ]
+}
