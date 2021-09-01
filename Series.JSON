@@ -1,0 +1,31 @@
+{
+    "Los Simpsons": [{
+        "Tipo": "Serie",
+        "Titulo": "Los Simpsons",
+        "Genero": "Comedia",
+        "Descripcion": "",
+        "Valoracion": "7",
+        "Duracion": "Nose   ue poner en la descripcion",
+        "N.Capitulos": "120",
+        "IMG": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimpsons.fandom.com%2Fes%2Fwiki%2FHomer_Simpson&psig=AOvVaw0y0TIIW73aw3JeJjB88G8F&ust=1618303984878000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCM6qKq-O8CFQAAAAAdAAAAABAD"
+    }],
+    "El Se;or de los Anillos": [{
+        "Tipo": "Pelicula",
+        "Titulo": "El se;or de los anillos",
+        "Genero": "Drama",
+        "Descripcion": "Nose   ue poner en la descripcion",
+        "Valoracion": "7",
+        "Duracion": "1h y 50 min",
+        "IMG": ""
+    }],
+
+    "Harry Potter": [{
+        "Tipo": "Pelicula",
+        "Titulo": "Harry Potter",
+        "Genero": "Drama",
+        "Descripcion": "Nose   ue poner en la descripcion",
+        "Valoracion": "7",
+        "Duracion": "1h y 50 min",
+        "IMG": ""
+    }]
+}
